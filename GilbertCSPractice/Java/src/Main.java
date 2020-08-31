@@ -9,23 +9,23 @@ public class Main {
 
 
         //System.out.println("hello world!");
-        doesntmatter thisIsADoesntMatter = new doesntmatter(34, "Gary");
-        int intermediaryInt = thisIsADoesntMatter.getAge();
+        //doesntmatter thisIsADoesntMatter = new doesntmatter(34, "Gary");
+        //int intermediaryInt = thisIsADoesntMatter.getAge();
 
         //System.out.println(thisIsADoesntMatter.age);
         //System.out.println(thisIsADoesntMatter.getAge());
 
-        thisIsADoesntMatter.changeAge(thisIsADoesntMatter.getAge() + 1);
+        //thisIsADoesntMatter.changeAge(thisIsADoesntMatter.getAge() + 1);
         //System.out.println(thisIsADoesntMatter.age);
         //System.out.println(thisIsADoesntMatter.getAge());
 
-        String stringPrimintive = "example";
-        int intPrimitive = 45;
-        int myInt;
-        myInt = 5;
-        double doublePrimitive = 0.1;
+        //String stringPrimintive = "example";
+        //int intPrimitive = 45;
+        //int myInt;
+        //myInt = 5;
+        //double doublePrimitive = 0.1;
 
-        Scanner newScan = new Scanner(System.in);
+        //Scanner newScan = new Scanner(System.in);
 
         /*
         System.out.println("Please input an age: ");
@@ -38,7 +38,7 @@ public class Main {
 
         System.out.println("You created a dude who is " + myobject.getAge() + " and named " + myobject.getName());
         */
-
+/*
         String[] myArray = new String[10];
         myArray[0] = "Hello";
         myArray[1] = "Gilbert";
@@ -55,6 +55,8 @@ public class Main {
         for(String someString:myArray){
             System.out.println("Content: " + someString);
         }
+
+ */
 
         /*
         String test1, test3;
@@ -73,6 +75,19 @@ public class Main {
         test3 = newScan.nextLine();
         System.out.println("You typed: " + test3);
         */
+
+        sll ourSinglyLinkedList = new sll("Red");
+
+        ourSinglyLinkedList.append("Yellow");
+        ourSinglyLinkedList.append("Green");
+        ourSinglyLinkedList.append("Orange");
+
+        System.out.println(ourSinglyLinkedList);
+
+        ourSinglyLinkedList.insert("Blue", 4);
+
+        System.out.println(ourSinglyLinkedList);
+
 
     }
 
