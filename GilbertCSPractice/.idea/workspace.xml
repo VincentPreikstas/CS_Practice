@@ -77,21 +77,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596583178962">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598919475976">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1596583178962" />
-    <state x="457" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596583177513">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1598919475976" />
+    <state x="457" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598919473419">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="457" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1596583177513" />
+    <state x="457" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1598919473419" />
     <state x="570" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596583078591">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="570" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1596583078591" />
-    <state x="399" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1597526554080">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1598919415350">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1598919415350" />
     <state x="399" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1597526554080" />
   </component>
 </project>
